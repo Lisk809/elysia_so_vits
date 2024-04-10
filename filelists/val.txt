@@ -1,0 +1,2 @@
+./dataset/44k/Nahida/Nahida_26.wav
+./dataset/44k/Nahida/Nahida_94.wav
