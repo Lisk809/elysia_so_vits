@@ -4,7 +4,7 @@ datasets:
   test: null
   train: null
 domain: null
-license: GPL-3.0
+license: agpl-3.0
 models: null
 tags:
 - null
@@ -13,3 +13,4 @@ tags:
 ```bash
  git clone https://www.modelscope.cn/studios/TheWuyou/sovits-elysia.git
 ```
+
